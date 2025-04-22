@@ -1,0 +1,54 @@
+
+header nav{
+    display: block;
+}
+
+header nav .navbar{
+    width: 95%;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+
+.navbar div{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.list-item-lab{
+    order: -1;
+}
+
+header .navbar .text-links-gmail{
+    display: none;
+}
+
+
+main .container img{
+    width: 500px;
+    height: 150px;
+}
+
+.container .container__searching-area{
+    width: 730px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.container p a{
+    text-decoration: none;
+    color: #1558d6;
+}
+
+.container .container__buttons{
+    display: none;
+}
+
+.footer--info{
+    justify-content: center;
+}
+
+.footer--info .first-ul{
+    display: none;
+}
